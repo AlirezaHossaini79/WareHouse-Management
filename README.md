@@ -1,5 +1,5 @@
 # WareHouse-Management
-function oriented C++ Project for advanced programming university course, impeleneted by structurs and pointer based array &amp;
+function oriented C++ Project for advanced programming university course, impeleneted by structurs and pointer based array.
 
 text files used as data base in this project.
 
